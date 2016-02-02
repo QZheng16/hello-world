@@ -1,0 +1,15 @@
+public class Hero
+{
+
+  public int health;
+  public int damage;
+  
+  public Hero();
+  
+  public Hero(int health, int damage)
+  {
+    this.health = health;
+    this.damage = damage;
+  }
+
+}
